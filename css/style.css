@@ -2,7 +2,7 @@
 ------------------------------------
   Civic - CV Resume
   Version: 1.0
- ------------------------------------ 
+ ------------------------------------
  ====================================*/
 
 /*----------------------------------------*/
@@ -36,7 +36,7 @@ h3 {
 
 p {
 	font-size: 18px;
-	color: #808181;
+	color: #474747;
 	line-height: 1.8;
 }
 
@@ -86,7 +86,7 @@ ol {
 	height: 2px;
 	left: 0;
 	bottom: 0;
-	background: #40424a;
+	background: #35363d;
 }
 
 .set-bg {
@@ -199,7 +199,7 @@ ol {
 
 .circle-progress .progress-info h2 {
 	font-size: 36px;
-	color: #40424a !important;
+	color: #35363d !important;
 }
 
 .circle-progress .prog-title {
@@ -241,7 +241,7 @@ ol {
 	height: 375px;
 	display: table;
 	width: 100%;
-	background: #40424a;
+	background: #35363d;
 }
 
 .fact-box.trans {
@@ -276,7 +276,7 @@ ol {
 }
 
 .single-progress-item p {
-	color: #40424a;
+	color: #35363d;
 	margin-bottom: 0;
 	font-weight: 600;
 }
@@ -294,14 +294,14 @@ ol {
 	height: 100%;
 	left: 0;
 	top: 0;
-	background: #40424a;
+	background: #35363d;
 }
 
 .bar-inner span {
 	position: absolute;
 	right: 0;
 	bottom: -30px;
-	color: #40424a;
+	color: #35363d;
 	font-weight: 600;
 }
 
@@ -330,7 +330,7 @@ ol {
 	display: inline-block;
 	margin-right: 18px;
 	border-radius: 12px;
-	background: #40424a;
+	background: #35363d;
 }
 
 .language-progress .lan-prog span.fade-ele {
@@ -353,7 +353,7 @@ ol {
 }
 
 .icon-box p {
-	color: #40424a;
+	color: #35363d;
 }
 
 .social-links a {
@@ -375,7 +375,7 @@ ol {
 }
 
 .site-logo h2 a {
-	color: #40424a;
+	color: #35363d;
 }
 
 .site-logo p {
@@ -428,7 +428,7 @@ ol {
 }
 
 .hero-info ul li span {
-	color: #40424a;
+	color: #35363d;
 	display: inline-block;
 	min-width: 220px;
 }
@@ -496,7 +496,7 @@ ol {
 	list-style: none;
 	margin-left: 60px;
 	padding-left: 110px;
-	border-left: 2px solid #40424a;
+	border-left: 2px solid #35363d;
 }
 
 .resume-list li {
@@ -513,7 +513,7 @@ ol {
 	content: '';
 	width: 15px;
 	height: 15px;
-	border: 2px solid #40424a;
+	border: 2px solid #35363d;
 	border-radius: 50px;
 	background: #cacaca;
 	top: 30px;
@@ -553,14 +553,14 @@ ol {
 .review-slider .owl-dots .owl-dot {
 	width: 12px;
 	height: 12px;
-	border: 2px solid #40424a;
+	border: 2px solid #35363d;
 	border-radius: 50px;
 	background: #cacaca;
 	margin-bottom: 15px;
 }
 
 .review-slider .owl-dots .owl-dot.active {
-	background: #40424a;
+	background: #35363d;
 }
 
 .single-review .qut {
@@ -596,7 +596,7 @@ ol {
 }
 
 .portfolio-item p {
-	font-size: 14px;
+	font-size: 18px;
 	margin-bottom: 0;
 }
 
@@ -682,7 +682,7 @@ ol {
 	Footer section
 -----------------------*/
 .footer-section {
-	background: #40424a;
+	background: #35363d;
 	padding: 20px 0;
 }
 
